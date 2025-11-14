@@ -45,7 +45,7 @@ export default function HeroSection() {
             {/* زر التحميل */}
             <div className="flex flex-col sm:flex-row gap-4 mb-8 pt-8 justify-end">
               <a
-                href="/app-arm64-v8a-release.apk"
+                href="/kidyland_app.apk"
                 download
                 className="bg-gradient-to-r from-cyan-400 to-pink-500 text-white px-8 py-4 rounded-full font-semibold hover:from-cyan-600 hover:to-pink-700 transition-all transform hover:scale-105 text-center whitespace-nowrap"
               >
